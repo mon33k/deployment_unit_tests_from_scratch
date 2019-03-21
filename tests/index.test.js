@@ -1,3 +1,3 @@
-TestRunner('it should pass', () => {
+test('it should pass', () => {
     expect(true).toBe(true);
 })
